@@ -86,4 +86,4 @@ Total revenue displayed at the top for quick insight
 
 Year and month filters to track seasonal fluctuations
 
-7. key visuals--
+7. key visuals--https://github.com/anurag70508/Sales-Insight-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
